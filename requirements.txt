@@ -187,7 +187,7 @@ pytz==2018.4
 pytzdata==2018.5
 PyWavelets==0.5.2
 pyxero==0.9.0
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.3
 qgrid==1.1.1
 QtAwesome==0.4.4
